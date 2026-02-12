@@ -1,0 +1,23 @@
+{
+  "name": "8laba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1iness/L8_NodeBase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1iness/L8_NodeBase/issues"
+  },
+  "homepage": "https://github.com/1iness/L8_NodeBase#readme",
+  "dependencies": {
+    "dotenv": "^17.2.4"
+  }
+}
